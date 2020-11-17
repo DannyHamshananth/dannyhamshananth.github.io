@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{699:function(e){e.exports=JSON.parse('{"image":{"title":"Walk the walk.","subtitle":"A fashion can become the prevailing style in behaviour or manifest the newest creations of designers, technologists, engineers, and design managers.","image":"/assets/full_width_banner.jpg","link":"/women.html"}}')}}]);
+//# sourceMappingURL=vsf-head-img-main-image-json.e74e1e8301c84cd3b76e.js.map

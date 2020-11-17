@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{697:function(e){e.exports=JSON.parse('{"image":{"title":"Cammina la passeggiata.","subtitle":"Una moda può diventare lo stile prevalente nel comportamento o manifestare le ultime creazioni di designer, tecnologi, ingegneri e responsabili del design.","image":"/assets/full_width_banner.jpg","link":"/women/la-donne-20"}}')}}]);
+//# sourceMappingURL=vsf-head-img-banners-it_main-image-json.e74e1e8301c84cd3b76e.js.map
